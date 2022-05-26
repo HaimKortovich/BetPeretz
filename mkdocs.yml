@@ -1,0 +1,25 @@
+site_name: Bet Peretz
+
+nav:
+  - Home: index.md
+  - "Shuljan Yosef":
+      - "Indice": "shuljan_yosef/index.md"
+      - "Askama": "shuljan_yosef/askama.md"
+      - "Askama de Rab Yosef": "shuljan_yosef/askama_rab_yosef.md"
+      - "Introduccion": "shuljan_yosef/askama2.md"
+      - "Leyes Diarias": "shuljan_yosef/leyes_diarias.md"
+      - "Tzitzit": "shuljan_yosef/tzitzit.md"
+      - "Tefilin": "shuljan_yosef/tefilin.md"
+      - "Bircot Hashajar, demas berajot y Shema": "shuljan_yosef/bircot_hashajar.md"
+      - "Tefila": "shuljan_yosef/tefila.md"
+      - "Shabat": "shuljan_yosef/shabat.md"
+      - "Pesaj": "shuljan_yosef/pesaj.md"
+      - "Tisha Beab": "shuljan_yosef/tisha_beab.md"
+      - "Rosh Hashana": "shuljan_yosef/rosh_hashana.md"
+      - "Yom Kipur": "shuljan_yosef/yom_kipur.md"
+      - "Sucot": "shuljan_yosef/sucot.md"
+      - "Januka": shuljan_yosef/januka.md
+      - "Purim": shuljan_yosef/purim.md
+      - "Yom Tov": "shuljan_yosef/yom_tov.md"
+theme:
+  name: material
